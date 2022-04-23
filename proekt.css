@@ -1,0 +1,47 @@
+.logo{
+    padding-left: 20px;
+}
+
+.nav1 {
+    padding-left: 10px;
+    /*display: grid;*/
+    text-align: center;
+    height: 500%;
+    border: 50% solid #000;
+}
+
+.nav2 {
+  padding-right: 10px;
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    height: 500%;
+    border: 50% solid #000;
+}
+
+.cerkov {
+    background: linear-gradient(90deg, #000 50%, #00B8D9 50%);
+    position: relative;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+
+.kakspasty {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.soxran {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
